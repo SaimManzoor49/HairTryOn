@@ -2,8 +2,6 @@
 
 This project provides an interactive web application using **Gradio** to virtually apply different hairstyles to a user's photo. It leverages a powerful AI model to perform realistic hairstyle transfers.
 
-> 💡 _Tip: Replace this note with an actual screenshot of your app for better visual presentation!_
-
 ---
 
 ## 🔑 Key Features
